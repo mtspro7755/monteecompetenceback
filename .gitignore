@@ -149,3 +149,11 @@ Desktop.ini
 ######################
 /coverage/
 /.nyc_output/
+
+
+##############
+# fichier config
+###############
+postgres.yml
+app.yml
+application-dev.yml
